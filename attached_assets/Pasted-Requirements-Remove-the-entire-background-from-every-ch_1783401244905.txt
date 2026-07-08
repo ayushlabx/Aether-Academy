@@ -1,0 +1,75 @@
+Requirements:
+
+Remove the entire background from every character image. The character must be perfectly cut out with clean edges (transparent PNG effect). No original photo background should be visible.
+
+The character should move on invisible pathways instead of floating randomly. Design elegant walking paths from the top of the page to the bottom, as if invisible roads exist throughout the website.
+
+Create dedicated activity locations instead of random movement. For example:
+
+Sleeping area (where she always returns to sleep)
+
+Reading corner
+
+Eating spot
+
+Working desk
+
+Relaxing garden
+
+Window viewpoint
+
+Coffee area
+
+Music corner
+
+Exercise space
+
+The character should naturally walk between these places using the invisible paths.
+
+Animation behavior:
+
+Walking should take around 20 seconds between locations.
+
+After arriving, wait 5–10 seconds.
+
+Perform an activity for 10–20 seconds.
+
+Wait another 5–10 seconds.
+
+Walk to the next location.
+
+Never teleport or instantly change activities.
+
+Every movement should feel smooth, calm, and realistic.
+
+Interaction:
+
+The character should be clickable or tappable.
+
+On every tap, show a cute speech bubble or emoji reaction.
+
+Rotate through many fun reactions instead of repeating the same one.
+
+Examples:😊 "Hey! Don't poke me."😤 "I'm busy!"🙄 "Again?"😴 "I was sleeping..."🍕 "Can I finish eating first?"📚 "Reading time!"😂 "You're annoying... but funny."🤨 "Need something?"🥺 "Be gentle!"✨ "Hello there!"
+
+Extra animations:
+
+Blink occasionally.
+
+Small breathing animation while standing.
+
+Look around randomly.
+
+Stretch after sleeping.
+
+Sit while reading.
+
+Eat with small hand movements.
+
+Wave sometimes.
+
+Yawn before sleeping.
+
+Idle animations should never feel static.
+
+The website should feel like a tiny living world where the character has routines, follows invisible paths, spends realistic time at each activity, and reacts playfully whenever the user interacts with her.
